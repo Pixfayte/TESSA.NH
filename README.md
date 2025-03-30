@@ -39,3 +39,16 @@ This project, including all original prompts, branding, and conceptual framework
 
 If you wish to collaborate or reference any part of this work, please contact me directly.
 Created with care by Nadia – Social Worker, Prompt Engineer & Ethical Tech Explorer.
+---
+
+## License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+
+You are free to:
+- Share and adapt the material
+- With appropriate credit
+- **Not for commercial use**
+
+Read the full license terms in the [LICENSE](LICENSE) file.
+
