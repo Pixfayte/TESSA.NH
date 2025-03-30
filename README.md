@@ -31,4 +31,11 @@ This project is in early development. Content will grow over time as tools are t
 
 ---
 
+© 2025 Nadia – All rights reserved.
+
+This project, including all original prompts, branding, and conceptual frameworks (e.g. TESSA, SABLE, and Raya), is the intellectual property of Nadia (Pixfayte). This repository is made public for transparency and educational sharing only.
+
+**Do not reuse, adapt, or reproduce this work for commercial purposes or projects without express permission.**
+
+If you wish to collaborate or reference any part of this work, please contact me directly.
 Created with care by Nadia – Social Worker, Prompt Engineer & Ethical Tech Explorer.
