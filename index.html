@@ -1,19 +1,65 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>TESSA</title>
   <style>
-    body {
+    * {
+      box-sizing: border-box;
+    }
+
+    body, html {
       margin: 0;
       padding: 0;
-      background: url('Landing.png') no-repeat center center fixed;
+      height: 100%;
+      width: 100%;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .hero {
+      background: url('Landing.png') no-repeat center center;
       background-size: cover;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: flex-end;
       height: 100vh;
-      width: 100vw;
+      padding: 2rem;
+      text-align: right;
+      color: #1d1d1d;
+      background-color: #e7f1e4;
+    }
+
+    .hero h1 {
+      font-size: clamp(2rem, 5vw, 4rem);
+      margin: 0;
+    }
+
+    .hero p {
+      font-size: clamp(1rem, 2vw, 1.5rem);
+      margin-top: 0.5rem;
+      max-width: 30rem;
+    }
+
+    @media (max-width: 768px) {
+      .hero {
+        align-items: center;
+        text-align: center;
+        padding: 1rem;
+      }
+
+      .hero p {
+        max-width: 90%;
+      }
     }
   </style>
 </head>
 <body>
+  <div class="hero">
+    <h1>TESSA</h1>
+    <p>Tool for Ethical Social Work Support & Analysis</p>
+    <p>Guided by Ethics, Powered by Innovation</p>
+  </div>
 </body>
 </html>
